@@ -1,0 +1,5 @@
+pytube==10.9.2
+moviepy==1.0.3
+tkinter==8.6
+ttkthemes==3.2.0
+Pillow==8.3.1
